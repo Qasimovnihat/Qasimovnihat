@@ -13,13 +13,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a>
-<a href="https://1c.ru/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/1C_Company_logo.svg" alt="1C" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,py,apple,pbi,tableau,excel&theme=dark" />
+  </a>
+  <a href="https://1c.ru/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/1C_Company_logo.svg" alt="1C" width="45" height="45" style="vertical-align: top; margin-top: 3px;" />
+  </a>
 </p>
 
 ---
