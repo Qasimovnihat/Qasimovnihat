@@ -14,13 +14,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,powerbi,python&theme=dark" />
-  </a>
-  <!-- Tableau və Excel üçün ayrıca -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi" width="40" height="40" alt="Power BI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tableau" width="40" height="40" alt="Tableau"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="40" height="40" alt="Excel"/>
 </p>
 
 
