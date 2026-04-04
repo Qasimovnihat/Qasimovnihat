@@ -14,15 +14,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40" alt="Tableau"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40" height="40" alt="Excel"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
-
 
