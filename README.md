@@ -18,11 +18,11 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi" width="40" height="40" alt="Power BI"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="Power BI"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="40" height="40" alt="Tableau"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40" alt="Tableau"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="40" height="40" alt="Excel"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="40" height="40" alt="Excel"/>
 </p>
 
 
