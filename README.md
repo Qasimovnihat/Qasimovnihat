@@ -24,5 +24,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Nihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasimovnihat&show_icons=true&theme=dark)
+
