@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Data Analyst</h3>
 
 - 🌱 I’m currently learning **Advanced Statistics & Machine Learning**
-- 💻 All of my projects are available at [NovyPro Portfolio](https://www.novypro.com/profile/nihat-qasimov)
+- 💻 All of my projects are available at [NovyPro Portfolio](https://www.novypro.com/profile_about/1772732992766x779207055089036200)
 - 💬 Ask me about **SQL, Python, Power BI & Tableau, Excel**
 - 📫 How to reach me **qasimovnihatt@gmail.com**
 
