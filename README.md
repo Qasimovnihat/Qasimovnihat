@@ -15,11 +15,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,pbi,tableau,excel&theme=dark" />
-  </a>
-  <a href="https://1c.ru/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/1caas/1caas-original.svg" alt="1C" width="50" height="50" style="vertical-align: top; margin-left: 5px;" />
+    <img src="https://skillicons.dev/icons?i=mysql,pbi,tableau,py,excel&theme=dark" />
   </a>
 </p>
+
+---
 
 
