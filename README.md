@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nihat Qasımov</h1>
-<h3 align="center">I'm a Data Analyst</h3>
+### Hi there 👋, Nihat Qasımov
+#### Data Analyst | Turning Complex Data into Clear Insights | Skilled in Excel, SQL, Power BI, Tableau, Python
+![Data Analyst | Turning Complex Data into Clear Insights | Skilled in Excel, SQL, Power BI, Tableau, Python](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc5MGxvdjJ0ZWhsNmlmM3o5cnVoYmIzeHIzN3RzZTJ3ODk0dDRmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QzF0Bp09v4abTr7928/giphy.gif)
 
-- 🌱 I’m currently learning **Advanced Statistics & Machine Learning**
-- 💻 All of my projects are available at [NovyPro Portfolio](https://www.novypro.com/profile_about/1772732992766x779207055089036200)
-- 💬 Ask me about **SQL, Python, Power BI & Tableau, Excel**
-- 📫 How to reach me **qasimovnihatt@gmail.com**
+Data Analyst focused on transforming raw data into actionable insights. I specialize in data cleaning, automated ETL pipelines, and interactive reporting for e-commerce and real estate sectors.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nihat--qasimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihat-qasimov" height="30" width="40" /></a>
-<a href="https://instagram.com/qasimoff.o86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihatqasimov" height="30" width="40" /></a>
-</p>
+Skills: SQL Server / T-SQL / Advanced Excel / Power BI / Python / Tableau
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
+- 🔭 I’m currently working on Automated ETL pipelines and E-commerce sales dashboards. 
+- 🌱 I’m currently learning Optimizing data cleaning processes and mastering automated ETL automation using SQL Server and Python. 
+- 🤔 I’m looking for help with Optimizing complex SQL queries and advanced DAX measures in Power BI. 
+- 💬 Ask me about Data cleaning, SQL Server, Power BI visualization, and Statistical analysis. 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nihatt-qasimov) | [Email](mailto:qasimovnihatt@gmail.com) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qasimovnihat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nihatt-qasimov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/qasimoff.o86?igsh=b2JpNWwyb2Exc3Bx/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasimovnihat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasimovnihat&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Qasimovnihat)  
 
