@@ -13,7 +13,7 @@ Skills: SQL Server / T-SQL / Advanced Excel / Power BI / Python / Tableau
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nihatt-qasimov) | [Email](mailto:qasimovnihatt@gmail.com) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qasimovnihat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nihatt-qasimov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/qasimoff.o86?igsh=b2JpNWwyb2Exc3Bx/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Qasimovnihat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nihatt-qasimov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/qasimoff.o86/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasimovnihat)](https://github.com/anuraghazra/github-readme-stats)
 
